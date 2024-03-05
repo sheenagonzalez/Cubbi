@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Cubbi</string>
+    <string name="app_logo">Cubbi logo</string>
+    <string name="app_description">a pocket household manager</string>
+    <string name="app_developed_by">Developed by Sheena Gonzalez</string>
+
+    <string name="empty"> </string>
+
+    <!--    Login   -->
+    <string name="welcome">Welcome to Cubbi.</string>
+    <string name="login_instructions">Please login to continue.</string>
+    <string name="account_icon">Account icon</string>
+    <string name="lock_icon">Lock icon</string>
+    <string name="username_placeholder">Username</string>
+    <string name="password_placeholder">Password</string>
+    <string name="forgot_password_btn">Forgot password?</string>
+    <string name="login_btn">Login</string>
+    <string name="other_login">Or, login with…</string>
+    <string name="google_icon">Google icon</string>
+    <string name="facebook_icon">Facebook icon</string>
+    <string name="register_pretext">Not a user yet? </string>
+    <string name="register_btn">Register here.</string>
+
+    <!--    Signup -->
+    <string name="signup">Create an account.</string>
+    <string name="email_icon">Email icon</string>
+    <string name="handle_icon">Handle icon</string>
+    <string name="email_placeholder">Email</string>
+    <string name="confirm_password_placeholder">Confirm Password</string>
+    <string name="signup_btn">Signup</string>
+    <string name="other_signup">Or, signup with…</string>
+    <string name="login_pretext">Already a user?</string>
+    <string name="signup_to_login_btn">Sign in here.</string>
+
+</resources>
